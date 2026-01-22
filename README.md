@@ -12,7 +12,8 @@
 
 *Mentor*: Neela Santhosh Kumar
 
-#API Integration and Data Visualization
+#API Integration and Data Visualization:
+
 Key Important Points:
 -Python is used to integrate a public API and process real-time data.
 -OpenWeatherMap API is used as the data source to fetch live weather i-nformation.
