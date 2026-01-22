@@ -29,3 +29,7 @@ Once the data is successfully retrieved, it is processed to extract meaningful w
 Data Visualization is the next important stage of the project. Visualization helps represent complex data in a simple and understandable graphical format. Using Matplotlib and Seaborn, the extracted weather parameters are displayed in the form of a dashboard. Bar charts are used to compare different weather attributes on a single screen, making it easier for users to analyze current weather conditions.
 
 The project allows user interaction by taking the city name as input, making the application dynamic and flexible. Since the data is fetched in real time, the output varies according to the selected city and current weather conditions. This project demonstrates how API integration and data visualization work together to build practical applications that convert live data into meaningful visual insights.
+
+*:output:
+
+<img width="1242" height="833" alt="Image" src="https://github.com/user-attachments/assets/d1052be3-3057-4a23-be98-90a21cb3c827" />
