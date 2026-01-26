@@ -57,10 +57,10 @@ if __name__ == '__main__':
     print(f'Comfort Index: {comfort}')
 
     if comfort < 20:
-        print('Weather Condition: Comfortable ✅')
+        print('Weather Condition: Comfortable ')
     elif comfort <= 25:
-        print('Weather Condition: Moderate ⚠️')
+        print('Weather Condition: Moderate ')
     else:
-        print('Weather Condition: Uncomfortable ❌')
+        print('Weather Condition: Uncomfortable ')
 
     visualize(city, temp, humidity, pressure, wind, comfort)
